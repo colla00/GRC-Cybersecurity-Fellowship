@@ -1,7 +1,7 @@
 # Pass It On Maryland GRC Cybersecurity Fellowship  
 
 ## 📌 Overview  
-This repository contains project work completed during the **Pass It On Maryland GRC Cybersecurity Fellowship**, focusing on **Governance, Risk, and Compliance (GRC), incident response, and security policy development**.  
+This repository contains project work completed during the **GRC Cybersecurity Fellowship**, focusing on **Governance, Risk, and Compliance (GRC), incident response, and security policy development**.  
 
 ## 🔹 Key Contributions  
 - Led **internal communications and documentation**, improving team collaboration  
@@ -21,4 +21,4 @@ This repository contains project work completed during the **Pass It On Maryland
 - 📝 **Team Coordination Notes** – Internal communications and workflow improvements  
 
 ## 📢 About the Fellowship  
-The **Pass It On Maryland GRC Cybersecurity Fellowship** is a hands-on program designed to develop skills in **risk management, governance, and cybersecurity policy implementation**.   
+This *GRC Cybersecurity Fellowship** is a hands-on program designed to develop skills in **risk management, governance, and cybersecurity policy implementation**.   
