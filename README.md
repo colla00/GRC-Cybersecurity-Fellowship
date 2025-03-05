@@ -1,4 +1,4 @@
-# Pass It On Maryland GRC Cybersecurity Fellowship  
+# GRC Cybersecurity Fellowship  
 
 ## 📌 Overview  
 This repository contains project work completed during the **GRC Cybersecurity Fellowship**, focusing on **Governance, Risk, and Compliance (GRC), incident response, and security policy development**.  
